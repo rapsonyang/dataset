@@ -1,4 +1,10 @@
 ## 各大公司开源项目GITHUB地址
+### 当当(https://github.com/dangdangdotcom)
+
+### 携程(https://github.com/ctripcorp)
+
+### 唯品会(https://github.com/vipshop)
+
 ### 百度 Baidu (https://github.com/fex-team/)
 
 ### 腾讯 QQ (http://alloyteam.github.io/)
